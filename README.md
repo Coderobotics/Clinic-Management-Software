@@ -26,5 +26,5 @@ Clinical Appointment and Scheduling System is a web based application which cove
 <li>SMS Notifications</li>
 <li>Reports</li>
 </ul>
-<b>More details and download link:</b></b>
+<b>More details and download link:</b><br>
 <b>https://www.aspscriptsonline.com/product/clinic-management-system/</b>
